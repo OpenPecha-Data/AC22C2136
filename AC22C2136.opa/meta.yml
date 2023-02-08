@@ -1,0 +1,23 @@
+id: AC22C2136
+title: Maitreyavyākaraṇa
+type: translation
+pechas:
+- IA6949B69
+- IF45A6558
+- I9105B194
+- I233025F8
+- I318B33D3
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:12:39.899305
+  last_modified_at: 2023-02-08 15:12:39.899321
+alignment_to_base:
+  IA6949B69/1584: A34A
+  IF45A6558/DEA3: A34A
+  I9105B194/9AE3: A34A
+  I233025F8/4861: A34A
+  I318B33D3/5E0F: A34A
